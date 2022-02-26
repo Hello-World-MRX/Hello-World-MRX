@@ -1,5 +1,10 @@
 
-
+​<h3><b><i>Visitors :</i></b></h3> 
+  
+ ​<br> 
+  
+  
+ ​![​Visitor Count​](https://profile-counter.glitch.me/Hello-World-MRX/count.svg)
 
  
 
@@ -14,12 +19,7 @@
 
 
  
- ​<h3><b><i>Visitors :</i></b></h3> 
-  
- ​<br> 
-  
-  
- ​![​Visitor Count​](https://profile-counter.glitch.me/Hello-World-MRX/count.svg)
+ 
 
 ###​ ​⚙️ ​&nbsp;​ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 & 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐
   
